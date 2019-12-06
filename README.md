@@ -1,0 +1,2 @@
+# Workshop
+Nicaragua mapping workshop
